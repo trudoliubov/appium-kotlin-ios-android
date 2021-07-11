@@ -1,0 +1,7 @@
+<suite name="TestSuite">
+    <test name="AutoQA">
+        <classes>
+            <class name="com.app.appium.tests.LoginTest" />
+        </classes>
+    </test>
+</suite>
